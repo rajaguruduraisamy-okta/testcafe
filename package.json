@@ -182,7 +182,6 @@
     "open": "^6.4.0",
     "openssl-self-signed-certificate": "^1.1.6",
     "proxyquire": "^2.1.0",
-    "publish-please": "^5.5.1",
     "recursive-copy": "^2.0.5",
     "request": "^2.58.0",
     "rollup": "^2.2.0",
